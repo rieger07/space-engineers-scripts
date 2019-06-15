@@ -1,0 +1,6 @@
+*.vs
+.vs
+*.zip
+*.exe
+bin
+obj

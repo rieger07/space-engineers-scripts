@@ -1,0 +1,33 @@
+﻿R e a d m e
+-----------
+
+In this file you can include any instructions or other comments you want to have injected onto the 
+top of your final script. You can safely delete this file if you do not want any such comments.
+
+```ini
+[config]
+output=Ore Display
+[amounts]
+MyObjectBuilder_Ore/Iron=200000
+MyObjectBuilder_Ore/Nickel=200000
+MyObjectBuilder_Ore/Cobalt=200000
+MyObjectBuilder_Ore/Ice=1000000
+MyObjectBuilder_Ore/Gold=200000
+MyObjectBuilder_Ore/Silver=200000
+MyObjectBuilder_Ore/Magnesium=200000
+MyObjectBuilder_Ore/Silicon=200000
+MyObjectBuilder_Ore/Platinum=200000
+MyObjectBuilder_Ore/Stone=200000
+
+[names]
+MyObjectBuilder_Ore/Iron=Iron Ore
+MyObjectBuilder_Ore/Nickel=Nickel Ore
+MyObjectBuilder_Ore/Cobalt=Cobalt Ore
+MyObjectBuilder_Ore/Ice=Ice
+MyObjectBuilder_Ore/Gold=Gold Ore
+MyObjectBuilder_Ore/Silver=Silver Ore
+MyObjectBuilder_Ore/Magnesium=Magnesium Ore
+MyObjectBuilder_Ore/Silicon=Silicon
+MyObjectBuilder_Ore/Platinum=Platinum
+MyObjectBuilder_Ore/Stone=Stone
+```
